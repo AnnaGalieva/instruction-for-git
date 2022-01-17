@@ -68,7 +68,7 @@ git init
  Чтобы слить информацию из ветки branch_name в текущую:
 
  > git merge branch_name
- 
+
 
  ## Удаление веток
 
@@ -79,3 +79,4 @@ git init
  Удаление с игнорированием ошибок:
 
  > git branch -D branch_name
+
